@@ -18,7 +18,7 @@ Print of the finished project.
 ### Libraries used
 
 - [axios](https://www.npmjs.com/package/axios)
--[bootstrap](https://getbootstrap.com/)
+- [bootstrap](https://getbootstrap.com/)
 
 
 ## Cloning the project
