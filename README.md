@@ -13,7 +13,7 @@ This project was created to practice building a site with Reat.js components. It
 
 Print of the finished project.
 
-![plot](./assets/img/screenshot.png)
+![plot](./src/assets/img/screenshot.png)
 
 ### Libraries used
 
